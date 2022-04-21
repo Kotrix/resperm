@@ -3,6 +3,10 @@ Changepoint detection in noisy data using the residuals permutation-based method
 
 The version in R is accessible here: https://github.com/gkonczak/chp.perm
 
+## Usage
+
+Just run src/resperm.py in a Python environment with numpy
+
 ## Citation
 
 When using RESPERM - please cite the article:
